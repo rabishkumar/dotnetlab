@@ -1,0 +1,14 @@
+C:\myprojects\GarbageCollection\bin\Debug\net8.0\GarbageCollection.exe
+C:\myprojects\GarbageCollection\bin\Debug\net8.0\GarbageCollection.deps.json
+C:\myprojects\GarbageCollection\bin\Debug\net8.0\GarbageCollection.runtimeconfig.json
+C:\myprojects\GarbageCollection\bin\Debug\net8.0\GarbageCollection.dll
+C:\myprojects\GarbageCollection\bin\Debug\net8.0\GarbageCollection.pdb
+C:\myprojects\GarbageCollection\obj\Debug\net8.0\GarbageCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\myprojects\GarbageCollection\obj\Debug\net8.0\GarbageCollection.AssemblyInfoInputs.cache
+C:\myprojects\GarbageCollection\obj\Debug\net8.0\GarbageCollection.AssemblyInfo.cs
+C:\myprojects\GarbageCollection\obj\Debug\net8.0\GarbageCollection.csproj.CoreCompileInputs.cache
+C:\myprojects\GarbageCollection\obj\Debug\net8.0\GarbageCollection.dll
+C:\myprojects\GarbageCollection\obj\Debug\net8.0\refint\GarbageCollection.dll
+C:\myprojects\GarbageCollection\obj\Debug\net8.0\GarbageCollection.pdb
+C:\myprojects\GarbageCollection\obj\Debug\net8.0\GarbageCollection.genruntimeconfig.cache
+C:\myprojects\GarbageCollection\obj\Debug\net8.0\ref\GarbageCollection.dll
